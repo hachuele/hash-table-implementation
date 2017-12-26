@@ -1,0 +1,33 @@
+ln -s /auto/home-scf-06/csci455//assgts/pa5/melville.txt .
+ln: failed to create symbolic link './melville.txt': File exists
+make: [Makefile:27: getfiles] Error 1 (ignored)
+ln -s /auto/home-scf-06/csci455//assgts/pa5/poe.txt .
+ln: failed to create symbolic link './poe.txt': File exists
+make: [Makefile:28: getfiles] Error 1 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/README
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:29: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/concord.cpp
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:30: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/grades.cpp
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:31: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/Table.h
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:32: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/Table.cpp
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:33: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/listFuncs.h
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:34: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/listFuncs.cpp
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:35: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/pa5list.cpp
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:36: getfiles] Error 127 (ignored)
+/auto/home-scf-06/csci455//assgts/bin/safecopy /auto/home-scf-06/csci455//assgts/pa5/Makefile
+make: /auto/home-scf-06/csci455//assgts/bin/safecopy: Command not found
+make: [Makefile:37: getfiles] Error 127 (ignored)
